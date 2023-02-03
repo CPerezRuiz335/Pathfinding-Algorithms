@@ -1,5 +1,5 @@
 # Pathfinding-Algorithms
-Seems like every CS student has to do this project some day. I added a few algorithms that I can't find in this kind of projects to make it at least different from the rest :man_shrugging:. 
+Seems like every CS student has to do this project someday. I added a few algorithms that I can't find in this kind of projects to make it at least different from the rest :man_shrugging:. 
 
 #### Usage
 
