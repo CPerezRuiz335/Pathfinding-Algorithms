@@ -17,6 +17,6 @@ First two squares are the source :orange_square: and the end square :blue_square
 | **K** | Dijkstra                                          |
 | **L** | Bidirectional BFS                                 |
 | **M** | Create maze. Change algorithm inside game/game.py |
-| **Q** | Quit                                              |
+| **Q** | Quit or stop algorithm                            |
 | **R** | Rapidly Exploring Random Tree (RRT) :top:         |
 
